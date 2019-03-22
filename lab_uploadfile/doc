@@ -1,0 +1,15 @@
+validation
+- data must be correct before push up to db
+- 2 types
+-- by js(client)
+-- by php (server)
+- valid2.php is a simple validation 
+-- $data = trim($data);//cut space
+-- $data = stripslashes($data);//cut slashes
+-- regular actention
+-- function empty(data) can return TF
+-- function filter_var(data)
+
+enable disabele input
+- ex <input disabeled>
+- ex <input disabeled="disabeled">
