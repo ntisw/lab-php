@@ -1,3 +1,6 @@
+<!--นายนันทิพัฒน์ สุวรรณวงศ์ 6030213010
+    นายอุกฤษฏ์ อ่องแสงคุณ 6030213050
+-->
 <?php
 //$Fname = $Lname = $email = $gender = $comment = $homepage = $picPro = "";
 $isValid=true;

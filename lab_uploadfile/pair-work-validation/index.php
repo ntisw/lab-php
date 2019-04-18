@@ -1,3 +1,6 @@
+<!--นายนันทิพัฒน์ สุวรรณวงศ์ 6030213010
+    นายอุกฤษฏ์ อ่องแสงคุณ 6030213050
+-->
 <table align= "center" border = "2"><tr><td>
 <br><br>
 <center>-- PLEASE INPUT YOUR DATA --</center><br><br>
