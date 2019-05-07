@@ -16,6 +16,7 @@ if (!$result) {
 } else {
 
     echo 'Congratulations!The record is updated.';
+    mysqli_close($connect);
 }
 
 ?>
